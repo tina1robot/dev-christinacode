@@ -34,9 +34,9 @@ export default function Navbar() {
         CM
       </a>
       <div style={{ display: "flex", gap: "2rem" }}>
-        <a href="/" style={linkStyle("/")}>Home</a>
-        <a href="/about" style={linkStyle("/about")}>About</a>
-        <a href="/resume" style={linkStyle("/resume")}>Resume</a>
+        <a href="#/" style={linkStyle("/")}>Home</a>
+        <a href="#/about" style={linkStyle("/about")}>About</a>
+        <a href="#/resume" style={linkStyle("/resume")}>Resume</a>
       </div>
     </nav>
   );
