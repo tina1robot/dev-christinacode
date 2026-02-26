@@ -3,6 +3,7 @@ import Navbar from "./Navbar";
 import Home from "./Home";
 import About from "./About";
 import Resume from "./Resume";
+import Footer from "./Footer";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
           <Route path="/resume" element={<Resume />} />
         </Routes>
       </div>
+      <Footer />
     </HashRouter>
   );
 }

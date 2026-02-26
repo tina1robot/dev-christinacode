@@ -163,12 +163,30 @@ export default function Resume() {
 
         {/* Leadership & Certs */}
         <Section title="Leadership & Certifications">
+        
           <div style={{ display: "flex", gap: "0.75rem", marginBottom: "0.75rem" }}>
             <span style={{ color: "#86b98b", fontFamily: "'DM Mono', monospace", flexShrink: 0 }}>—</span>
             <p style={{ fontFamily: "'Lora', serif", fontSize: "0.92rem", color: "#3d4d3e", lineHeight: 1.7, margin: 0 }}>
-              Website Manager, WECS (Women in Engineering and Computer Science), UVic
+              Co-organized 3-event hackathon series with 60+ participants
             </p>
           </div>
+          <div style={{ display: "flex", gap: "0.75rem", marginBottom: "0.75rem" }}>
+            <span style={{ color: "#86b98b", fontFamily: "'DM Mono', monospace", flexShrink: 0 }}>—</span>
+            <p style={{ fontFamily: "'Lora', serif", fontSize: "0.92rem", color: "#3d4d3e", lineHeight: 1.7, margin: 0 }}>
+              TCPS 2 CORE Certificate — Panel on Research Ethics (Oct 2025)
+            </p>
+          </div>
+          <div style={{ display: "flex", gap: "0.75rem" }}>
+            <span style={{ color: "#86b98b", fontFamily: "'DM Mono', monospace", flexShrink: 0 }}>—</span>
+            <p style={{ fontFamily: "'Lora', serif", fontSize: "0.92rem", color: "#3d4d3e", lineHeight: 1.7, margin: 0 }}>
+              IBM DevOps & Software Engineering · Google IT Support Professional (In Progress)
+            </p>
+          </div>
+        </Section>
+
+         {/* Leadership & Certs */}
+        <Section title="Leadership & Certifications">
+        
           <div style={{ display: "flex", gap: "0.75rem", marginBottom: "0.75rem" }}>
             <span style={{ color: "#86b98b", fontFamily: "'DM Mono', monospace", flexShrink: 0 }}>—</span>
             <p style={{ fontFamily: "'Lora', serif", fontSize: "0.92rem", color: "#3d4d3e", lineHeight: 1.7, margin: 0 }}>

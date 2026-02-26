@@ -24,10 +24,24 @@ export default function About() {
         {/* Intro */}
         <div style={{ marginBottom: "3.5rem" }}>
           <p style={{ fontFamily: "'Lora', serif", fontSize: "1.15rem", color: "#3d4d3e", lineHeight: 1.8, marginBottom: "1.25rem" }}>
-            I'm a Computer Science &amp; Statistics student at the University of Victoria, graduating in 2027. I'm drawn to software that actually makes a difference — whether that's building academic tools used by hundreds of students, designing databases that last, or shipping an AI system in 19 hours at a hackathon.
+             I'm a Computer Science student at the University of Victoria, graduating in 2027. Though I almost went into environmental 
+             studies, I have found my calling in software development with dreams of creating green tech solutions that help both the planet and people.
+
+            From robotics competition in highschool to workinh on university level course organizer,  I love tackling diverse challenges. 
+          </p>
+          <p style={{ fontFamily: "'Lora', serif", fontSize: "1.15rem", color: "#3d4d3e", lineHeight: 1.8, marginBottom: "1.25rem" }}>
+          
+            My superpower?  I can figure out pretty much anything a job requires and Ill have fun doing it. 
+
+            Currently seeking an May 2026 coop orpportunity where I can bring my technical skills, enviromental passion and 
+            problem solving enthusiasm to a team that values both innovation and responsibility. 
+    
           </p>
           <p style={{ fontFamily: "'Lora', serif", fontSize: "1.15rem", color: "#3d4d3e", lineHeight: 1.8 }}>
-            I care about writing clean, thoughtful code and collaborating with people who take their craft seriously. I'm currently looking for a Software Development co-op from May–December 2026.
+          
+            
+            I care about writing clean, thoughtful code and collaborating with people who take their craft seriously
+            . I'm currently looking for a Software Development co-op from May–December 2026.
           </p>
         </div>
 
@@ -72,7 +86,10 @@ export default function About() {
         <div style={{ background: "#edf4ee", borderRadius: "4px", padding: "2rem 2.5rem", borderLeft: "4px solid #86b98b" }}>
           <h2 style={{ fontFamily: "'Playfair Display', serif", fontSize: "1.4rem", color: "#2d3a2e", margin: "0 0 1rem 0" }}>Beyond the Code</h2>
           <p style={{ fontFamily: "'Lora', serif", fontSize: "1rem", color: "#3d4d3e", lineHeight: 1.8, margin: 0 }}>
-            Outside of software, I'm the website manager for WECS (Women in Engineering and Computer Science) at UVic and help organize hackathons. I enjoy bouldering, slow Sunday mornings, and taking care of my two senior cats.
+            Outside of software, 
+            Im working on both my paint by numbers and my reading list weekly. Have gotten into bouldering with friends and almost at green tapes!
+
+            Otherwise, I love slow sunday morning with my two senior cats. Buddy and Speedy images below.
           </p>
         </div>
       </div>
